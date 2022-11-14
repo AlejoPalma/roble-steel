@@ -1,0 +1,3 @@
+
+
+cambiar dirección en .htaccess

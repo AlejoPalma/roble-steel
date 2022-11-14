@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+#iconodewhatsap {
+    z-index: 999;
+    cursor: pointer;
+}
+
+#preline {
+    white-space: pre-line;
+}
+
+.navbar a {
+    color: white;
+}
